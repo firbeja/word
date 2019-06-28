@@ -1,0 +1,8 @@
+occupancy | BrE ˈɒkjəpənsi, AmE ˈɑkjəpənsi |
+	noun uncountable
+		①(act of occupying) [房屋、土地等的] 占有; (proportion occupied) 入住率
+			▸ we have sole occupancy of the house
+			  这房子完全归我们所有
+			▸ available for immediate occupancy
+			  可随时入住
+		②(period) 占用期

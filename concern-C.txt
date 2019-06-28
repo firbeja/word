@@ -1,0 +1,72 @@
+concern | BrE kənˈsəːn, AmE kənˈsərn |
+	A.noun
+		①uncountable (worry) 担心
+			▸ to have concern for sb/sth;
+			  担心某人/某事物
+			▸ to give rise to concern
+			  引起担忧
+			▸ an expression or a look of concern
+			  一副忧虑的表情
+			▸ there is growing concern about crime
+			  人们日益担忧犯罪问题
+			▸ a matter of/cause for concern
+			  令人关切的事/引起关切的原因
+		②uncountable and countable (preoccupation) 令人关切的事物
+			▸ environmental/petty concerns
+			  环境问题/微不足道的事物
+			▸ to be of concern to sb;
+			  是某人关注的事物
+			▸ to have concern for sb/sth;
+			  关心某人/某事物
+		③uncountable (personal business) 私事
+			▸ that's no concern of sb's or none of sb's concern
+			  那不关某人的事
+		④countable Business 公司
+			▸ a going/paying concern
+			  生意兴隆/赚钱的公司
+	B.transitive verb
+		①(affect, interest) 与…有关
+			▸ to whom it may concern
+			  formal 敬启者
+			▸ as far as sb is concerned;
+			  就某人而言
+			▸ the matter doesn't concern you
+			  这件事不关你的事
+			▸ all (those) concerned
+			  所有（那些）相关人员
+			▸ as concerns sb/sth;
+			  关于某人/某事物
+			▸ where sb/sth is concerned
+			  有关某人/某事物之处
+		②(worry) 担忧
+			▸ the doctor was concerned by the new symptoms
+			  医生对出现的新症状很担忧
+		③(involve) 牵涉
+			▸ to be concerned with sth/sb;
+			  «person, government, institution» 关注 
+			  ‹state of affairs, security, publicity, person›
+			▸ to be concerned in;
+			  «person, government, institution» 牵涉进 ‹scandal, event, plan›
+			▸ was he concerned in the affair?
+			  他卷进了那件事吗？
+			▸ to be concerned to do sth;
+			  认为有必要做某事
+		④(be about) «text, speech, radio/TV programme» 关于
+			▸ to be concerned with sth/sb;
+			  讲述某事物/某人
+	C.to concern oneself reflexive verb
+		①
+			▸ (take an interest) to concern oneself with doing sth;
+			  对做某事物感兴趣
+			▸ to concern oneself with sth/sb;
+			  对某事物/某人感兴趣
+			▸ to concern oneself about sth;
+			  对某事物感兴趣
+		②
+			▸ (worry) to concern oneself about sth;
+			  担心某事物
+			▸ don't concern yourself, my lips are sealed
+			  别担心，我的嘴很严
+		③
+			▸ (be about) to concern itself with sth/sb;
+			  «text, speech, radio/TV programme» 讲述某事物/某人
