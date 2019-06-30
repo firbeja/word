@@ -1,0 +1,36 @@
+contract
+	A.noun | BrE ˈkɒntrakt, AmE ˈkɑntrækt |
+		①(agreement)
+			▸ to enter into a contract with sb for sth
+			▸ sold subject to contract
+			▸ to be under contract with or to sb/sth
+		②Business (for goods/services)
+			▸ to award or assign a contract to sb
+			▸ to win a contract
+			▸ to put work out to contract
+		③slang (for killing)
+			▸ to put out a contract on sb
+	B.transitive verb | BrE kənˈtrakt, AmE kənˈtrækt |
+		①Medicine (develop) ‹disease›
+		②formal (enter into) ‹marriage, alliance›
+			▸ he contracted a marriage/an alliance with her
+		③(tighten) ‹muscle›
+		④(make shorter) ‹word, phrase›
+	C.intransitive verb | BrE kənˈtrakt, AmE kənˈtrækt |
+		①(in size) «metal» ; «territory»
+		②(decrease) «supplies, support»
+		③Physiology «muscle»
+		④Business,Law (undertake) «firm, person, government»
+			▸ to contract into sth;
+			▸ to contract with sb to …
+PHRASAL VERBS
+contract in
+	intransitive verb
+		British
+contract out
+	A. transitive verb [contract out sth, contract sth out]
+		‹work, building›
+			▸ to contract sth out to sb;
+	B. intransitive verb
+		British
+			▸ to contract out of sth

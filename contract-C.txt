@@ -1,0 +1,48 @@
+contract
+	A.noun | BrE ˈkɒntrakt, AmE ˈkɑntrækt |
+		①(agreement) 合同
+			▸ to enter into a contract with sb for sth
+			  就某事物与某人签订合约
+			▸ sold subject to contract
+			  按合同出售
+			▸ to be under contract with or to sb/sth
+			  签约为某人/某组织工作
+		②Business (for goods/services) 承包合同
+			▸ to award or assign a contract to sb
+			  将合同承包给某人
+			▸ to win a contract
+			  中标
+			▸ to put work out to contract
+			  签约将工作外包
+		③slang (for killing) 暗杀协议
+			▸ to put out a contract on sb
+			  雇凶谋杀某人
+	B.transitive verb | BrE kənˈtrakt, AmE kənˈtrækt |
+		①Medicine (develop) 感染 ‹disease›
+		②formal (enter into) 约定建立…关系 ‹marriage, alliance›
+			▸ he contracted a marriage/an alliance with her
+			  他和她订了婚/结了盟
+		③(tighten) 收缩 ‹muscle›
+		④(make shorter) 缩约 ‹word, phrase›
+	C.intransitive verb | BrE kənˈtrakt, AmE kənˈtrækt |
+		①(in size) «metal» 收缩 ; «territory» 缩小
+		②(decrease) «supplies, support» 减少
+		③Physiology «muscle» 收缩
+		④Business,Law (undertake) «firm, person, government» 订立合同
+			▸ to contract into sth;
+			  订约加入某事
+			▸ to contract with sb to …
+			  与某人就…签约
+PHRASAL VERBS
+contract in
+	intransitive verb
+		British 订约参与
+contract out
+	A. transitive verb [contract out sth, contract sth out]
+		订约将…外包 ‹work, building›
+			▸ to contract sth out to sb;
+			  将某工作订约外包给某人
+	B. intransitive verb
+		British 订约退出
+			▸ to contract out of sth
+			  退出关于某事的合约
