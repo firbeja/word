@@ -3,5 +3,8 @@ at,state,above,else,either,neither,nor,will,up,due,of,crowd,dream,modal,harmony,
 2019-7-4，周四
 about,course,concern,regard,occupy,occupant,occupation,occupancy,occupational,nature,natural,bind,frank,book,far,away,well,off,after
 
-2019-July-12,friday - 
-round( * * *repeated* * * ),auxiliary,urge,please,mass,corner,explain,wide,charge,confuse,Rome,road,know,
+2019-July-12,friday ---
+
+round( * * *repeated* * * ),auxiliary,urge,please,mass,corner,explain,wide,charge,confuse,Rome,road,know,make,house,like,warn,not,build,history,hope,want,room,solid,nose,sport,out,rule,number,put,water,country,all,ask,ready,text,think,garden,crawl
+
+For stop mess this ".txt",I will note situation in "Notes" that is Mac's application.
