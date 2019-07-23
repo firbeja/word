@@ -1,0 +1,12 @@
+text | BrE tɛkst, AmE tɛkst |
+	A.noun
+		①uncountable (written matter) 文本; (in computer form) 文档
+		②countable (wording) 原文
+		③countable (main content) 正文
+		④countable (book) 书籍; (textbook) 课本
+			▸ a set text
+				指定书目
+		⑤countable (passage from the Bible) [宗教仪式上引用的] 《圣经》; figurative (subject or theme for discussion) 论题
+		⑥countable (mobile phone message) 短信息
+	B.transitive verb
+		给…发短信 ‹person›; 发送 ‹message, reply›

@@ -1,0 +1,116 @@
+rule | BrE ruːl, AmE rul |
+	A.noun
+		①countable (regulation) (of game, sport, system) 规则;
+		  (of religion) 教规; (of school, company, organization) 规章
+			▸ rules and regulations
+				规章制度
+			▸ school/EU rules
+				校规/欧盟法规
+			▸ to break the rules
+				违规
+			▸ to obey/follow/observe the rules
+				服从/遵循/遵守规则
+			▸ to be against the rules (to do sth)
+				违反规定（做某事）
+			▸ under this rule
+				按照这条规定
+			▸ it is a rule that …
+				…是规定
+			▸ the rules of the game
+				literal 游戏规则
+				figurative 行为准则
+			▸ to play by the rules
+				literal 按规则玩游戏
+				figurative 处事公正诚实
+			▸ to play by one's own/sb's rules
+				按自己的原则/某人的规矩行事
+			▸ to bend or stretch the rules
+				通融
+		②countable (piece of advice) 建议
+			▸ hard and fast rules
+				一定之规
+			▸ there are two vital rules to remember
+				有两条极其重要的原则要记住
+		③countable (usual occurrence) 常规
+			▸ I make it a rule always/never to do …
+				我的习惯是一向/从不做…
+			▸ hot summers are the rule here
+				这里的夏天通常很炎热
+			▸ as a rule
+				通常
+			▸ as a general rule
+				一般说来
+		④uncountable (authority) 统治
+			▸ colonial/civilian/military rule
+				殖民/文官/军人统治
+			▸ majority/minority rule
+				多数派政党/少数派政党执政
+			▸ under the rule of a tyrant
+				在暴君的统治下
+		⑤countable (for measuring) 直尺
+			▸ a metre rule
+				米尺
+	B.transitive verb
+		①(govern) «monarch, dictator» 统治 ‹country›
+			▸ to rule with a rod of iron or with an iron hand
+				实行铁腕统治
+		②(dominate) 主宰
+			▸ eighty million years ago, dinosaurs ruled the earth
+				8,000万年前，地球是恐龙的天下
+		③(influence) «money, appetite» 支配 ‹person, life, character›;
+		  «person, consideration» 控制 ‹behaviour›; «factor» 决定 ‹strategy›
+			▸ to be ruled by;
+				受…支配 ‹emotion, greed, need›
+			▸ to let one's heart rule one's head
+				感情用事
+		④(decide) 裁定
+			▸ to rule sb/sth (to be) sth;
+				«judge, court» 裁定某人/某事为某情况
+			▸ to rule sth unlawful or illegal
+				判定某事非法
+			▸ to rule that …;
+				裁定…
+		⑤(draw) 用直尺画 ‹line, margin›
+	C.intransitive verb
+		①(govern) «monarch, dictator» 统治
+			▸ to rule over sb/sth;
+				统治某人/某处
+		②(dominate) «order» 起支配作用; «chaos, fashion» 成风
+			▸ anarchy rules
+				无政府主义猖獗
+		③Law «judge, court» 作出裁定
+			▸ to rule in favour of sb/sth;
+				判定某人/某机构胜诉
+			▸ to rule against sb/sth;
+				判定某人/某机构败诉
+			▸ to rule on sth;
+				对某事作出裁决
+		④informal (be excellent) 很棒
+			▸ Leeds United rule OK!
+				利兹联队必胜！
+PHRASAL VERBS
+rule off
+	A. intransitive verb
+		画分隔线
+	B. transitive verb [rule sth off, rule off sth]
+		画线隔开 ‹section, column›
+rule out
+	transitive verb [rule sb/sth out, rule out sb/sth]
+		① (exclude) «person, police» 排除 ‹person, suspect, possibility›
+			▸ to rule sb/sth out as sth;
+				因某情况而排除某人/某事物
+			▸ to rule sb/sth out of sth;
+				从某事中排除某人/某事物
+		② (prevent) «person, weather, situation» 阻止 ‹activity, person›
+			▸ rain ruled out play for the day
+				白天的比赛因雨取消
+			▸ to rule out doing sth;
+				阻止做某事
+			▸ the chairman has ruled out spending any more money on the project
+				董事长已决定不再给这个项目投资了
+			▸ his age effectively ruled him out as a possible candidate
+				他的年龄使他根本不可能成为候选人
+			▸ to rule sb/sth out of sth;
+				阻止某人/某物参加某事
+			▸ he has been ruled out of the match with a knee injury
+				他因膝盖受伤而无缘这场比赛

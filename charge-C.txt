@@ -1,0 +1,107 @@
+charge | BrE tʃɑːdʒ, AmE tʃɑrdʒ |
+	A.transitive verb
+		①(ask for as payment) 收取 ‹amount, sum, interest, commission›;
+		  (ask as payment from) 向…收费 ‹customer, client›
+			▸ she charged me £3 for cleaning the windows
+				她擦窗户要了我3英镑
+			▸ we charge postage to the customer or the customer for postage
+				我们向顾客收取邮资
+		②(pay on account) 把…记在账上
+			▸ I never carry cash: I charge everything
+				我从不带现金，一切都记账
+		③US (pay for with credit card) 用信用卡支付
+			▸ don't worry: I'll charge it
+				别担心，我会用信用卡付款的
+		④(make accusation against) 指责; Law (officially accuse of crime) 指控
+			▸ they charged her with murder/driving in excess of the speed limit
+				他们指控她谋杀/超速驾车
+			▸ they charged him with hypocrisy/neglecting his duty
+				他们指责他虚伪/玩忽职守
+		⑤Law (instruct) «judge» 向…发出指示 ‹jury›
+		⑥(attack) «troops» 进攻 ‹enemy lines›; «person, animal» 冲向 ‹person, fence›
+		⑦formal (fill) 把…装满 ‹container›
+			▸ please charge your glasses and drink a toast to the bride and groom!
+				请各位斟满酒，为新娘和新郎干杯！
+		⑧formal (load) 为…装弹药 ‹firearm, shell›
+		⑨(pervade) 使充满
+			▸ her voice was charged with anxiety
+				她的声音饱含焦虑
+		⑩
+			▸ Electricity to charge (up)
+				给…充电 ‹battery, accumulator, capacitor›
+		⑪formal (give responsibility to) 赋予…职责
+			▸ she was charged with organizing the reception
+				她负责组织招待会
+			▸ they have charged me with an important mission
+				他们交给我一项重要的使命
+	B.intransitive verb
+		①(ask for payment) 收费
+			▸ to charge for delivery
+				收取送货费
+		②(attack) «troops» 进攻; «person, animal» 猛冲
+			▸ charge!
+				Military 冲啊！
+			▸ the police charged towards the demonstrators
+				警察冲向示威者
+			▸ the bull charged into the tree
+				公牛一头撞在树上
+		③(rush) 冲
+			▸ he charged upstairs to answer the phone
+				他冲上楼去接电话
+		④Electricity «battery» 充电
+	C.noun
+		①uncountable and countable (fee) 费用
+			▸ free of charge
+				免费
+		②uncountable (control) 主管
+			▸ who's in charge here?
+				这里谁负责？
+			▸ to take charge
+				接管
+			▸ to take charge of sb/sth
+				负责照管某人/负责某事物
+			▸ to be in/have charge of sb/sth/of doing sth
+				负责照管某人/负责某事物/负责做某事
+			▸ in or under sb's charge, in or under the charge of sb
+				由某人负责
+			▸ to leave/put sb in charge (of sth/doing sth)
+				让某人负责（某事物/做某事）
+		③countable (attack) 进攻; (onrush) 猛冲
+			▸ to mount a charge against sb/sth
+				对某人/某物发起进攻
+			▸ a bayonet charge
+				白刃战
+			▸ the bull lowered its head and made a charge towards or at the fence
+				公牛低头冲向围栏
+		④countable (accusation) 指责; Law (against accused) 指控
+			▸ to make a charge against sb
+				指责某人
+			▸ to drop the charges
+				撤销指控
+			▸ to bring or press or prefer charges (against sb)
+				起诉（某人）
+			▸ to arrest sb on a charge of murder
+				以谋杀罪拘捕某人
+		⑤countable Law (instruction) 指示
+			▸ a charge to sb;
+				给…的指示 ‹jury›
+		⑥countable formal (sb in sb's care) 被照管的人; (sth in sb's care) 被照管的物品
+			▸ the charges of a teacher
+				老师分管的学生
+		⑦countable formal (task) 任务; (duty) 职责
+		⑧countable (explosive) 炸药量
+		⑨uncountable and countable US informal (credit account) 赊购账
+			▸ is it cash or charge?
+				是付现金还是记账？
+		⑩uncountable and countable Physics 电荷
+			▸ a positive/negative charge
+				正/负电荷
+		⑪uncountable Electricity (amount of electricity) 电量
+			▸ is there any charge left in the battery?
+				电池还有电吗？
+			▸ a unit of electric charge
+				电量单位
+		⑫uncountable and countable Electricity (act of filling with electricity) 充电
+			▸ on charge
+				在充电
+		⑬countable dated (burden) 负担

@@ -1,0 +1,9 @@
+auxiliary
+	A.adjective
+		-
+			an auxiliary generator
+	B.noun
+		- person; thing
+			a medical auxiliary
+		- Linguistics
+		- History (soldier)

@@ -1,0 +1,78 @@
+rule | BrE ruːl, AmE rul |
+	A.noun
+		①countable (regulation) (of game, sport, system);
+		  (of religion); (of school, company, organization)
+			▸ rules and regulations
+			▸ school/EU rules
+			▸ to break the rules
+			▸ to obey/follow/observe the rules
+			▸ to be against the rules (to do sth)
+			▸ under this rule
+			▸ it is a rule that …
+			▸ the rules of the game
+				literal
+				figurative
+			▸ to play by the rules
+				literal
+				figurative
+			▸ to play by one's own/sb's rules
+			▸ to bend or stretch the rules
+		②countable (piece of advice)
+			▸ hard and fast rules
+			▸ there are two vital rules to remember
+		③countable (usual occurrence)
+			▸ I make it a rule always/never to do …
+			▸ hot summers are the rule here
+			▸ as a rule
+			▸ as a general rule
+		④uncountable (authority)
+			▸ colonial/civilian/military rule
+			▸ majority/minority rule
+			▸ under the rule of a tyrant
+		⑤countable (for measuring)
+			▸ a metre rule
+	B.transitive verb
+		①(govern) «monarch, dictator» ‹country›
+			▸ to rule with a rod of iron or with an iron hand
+		②(dominate)
+			▸ eighty million years ago, dinosaurs ruled the earth
+		③(influence) «money, appetite» ‹person, life, character›;
+		  «person, consideration» ‹behaviour›; «factor» ‹strategy›
+			▸ to be ruled by;
+				‹emotion, greed, need›
+			▸ to let one's heart rule one's head
+		④(decide)
+			▸ to rule sb/sth (to be) sth;
+				«judge, court»
+			▸ to rule sth unlawful or illegal
+			▸ to rule that …;
+		⑤(draw) ‹line, margin›
+	C.intransitive verb
+		①(govern) «monarch, dictator»
+			▸ to rule over sb/sth;
+		②(dominate) «order»; «chaos, fashion»
+			▸ anarchy rules
+		③Law «judge, court»
+			▸ to rule in favour of sb/sth;
+			▸ to rule against sb/sth;
+			▸ to rule on sth;
+		④informal (be excellent)
+			▸ Leeds United rule OK!
+PHRASAL VERBS
+rule off
+	A. intransitive verb
+
+	B. transitive verb [rule sth off, rule off sth]
+		‹section, column›
+rule out
+	transitive verb [rule sb/sth out, rule out sb/sth]
+		① (exclude) «person, police» ‹person, suspect, possibility›
+			▸ to rule sb/sth out as sth;
+			▸ to rule sb/sth out of sth;
+		② (prevent) «person, weather, situation» ‹activity, person›
+			▸ rain ruled out play for the day
+			▸ to rule out doing sth;
+			▸ the chairman has ruled out spending any more money on the project
+			▸ his age effectively ruled him out as a possible candidate
+			▸ to rule sb/sth out of sth;
+			▸ he has been ruled out of the match with a knee injury

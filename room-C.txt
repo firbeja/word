@@ -1,0 +1,50 @@
+room | BrE ruːm,rʊm, AmE rum,rʊm |
+	A.noun
+		①countable (in house, hotel, office) 房间
+			▸ in the next room
+				在隔壁房间
+			▸ a three-room flat
+				三室的套房
+			▸ room 159
+				159号房间
+			▸ room and board
+				食宿
+			▸ ‘rooms to let: apply within'
+				“房间出租：有意请进”
+			▸ a meeting room
+				会议室
+		②countable (people) 房间里所有的人
+			▸ the room fell silent
+				屋里的人突然鸦雀无声
+		③uncountable (space) 空间
+			▸ to take up room
+				占地方
+			▸ to be short of room
+				缺少空间
+			▸ room for sb/sth;
+				某人/某物的位置
+			▸ to make room (for sb/sth)
+				（给某人/某物）腾出地方
+			▸ room to do sth;
+				做某事的空间
+			▸ there is always room at the top
+				总有向上发展的空间
+		④uncountable (scope) 机会
+			▸ room for improvement/manoeuvre
+				改进/回旋的余地
+			▸ no room for doubt
+				不容置疑
+			▸ room to do sth;
+				做某事的机会
+	B.rooms plural noun British
+		dated (lodgings) [尤指租住的] 寓所
+	C.intransitive verb
+		US 租房
+			▸ to room with sb;
+				与某人合住
+			▸ to room together
+				租住在一起
+	D.-roomed combining form
+		有…房间的
+			▸ a four-roomed cottage
+				有4个房间的村舍
