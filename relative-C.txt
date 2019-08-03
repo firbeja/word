@@ -1,0 +1,22 @@
+relative | BrE ˈrɛlətɪv, AmE ˈrɛlədɪv |
+	A.adjective
+		①(comparative) 相对而言的 ‹peace, happiness›
+			▸ he was a relative stranger
+				他相对来说是个陌生人
+		②(not absolute) 相对的 ‹standard›
+			▸ relative value
+				相对值
+		③(respective) 各自的 ‹values, merits, importance›
+		④(corresponding) 相应的
+			▸ to be relative to sth
+				与某事物相对应
+			▸ petrol consumption is relative to speed
+				耗油量与速度是成比例的
+		⑤formal (relevant) 相关的 ‹fact, document›
+		⑥Linguistics 关系的
+			▸ a relative pronoun
+				关系代词
+			▸ a relative clause
+				关系从句
+	B.noun
+		(relation) 亲戚

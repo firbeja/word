@@ -1,10 +1,20 @@
 2019-6-29，周六
-at,state,above,else,either,neither,nor,will,up,due,of,crowd,dream,modal,harmony,plain,scale,clause,contract,round( * * *repeated* * * )
+at,state,above,else,either,neither,nor,will,up,due,of,crowd,dream,modal,harmony,plain,scale,clause,
+contract,round( * * *repeated* * * )
 2019-7-4，周四
-about,course,concern,regard,occupy,occupant,occupation,occupancy,occupational,nature,natural,bind,frank,book,far,away,well,off,after
+about,course,concern,regard,occupy,occupant,occupation,occupancy,occupational,nature,natural,bind,
+frank,book,far,away,well,off,after
 
-2019-July-12,friday ---
 
-round( * * *repeated* * * ),auxiliary,urge,please,mass,corner,explain,wide,charge,confuse,Rome,road,know,make,house,like,warn,not,build,history,hope,want,room,solid,nose,sport,out,rule,number,put,water,country,all,ask,ready,text,think,garden,crawl
+2019-July-12, Friday
+round( * * *repeated* * * ),auxiliary,urge,please,mass,corner,explain,wide,charge,confuse,Rome,road,know,make,house,like,
+warn,not,build,history,hope,want,room,solid,nose,sport,out,rule,number,put,water,country,all,ask,
+ready,text,think,garden,crawl
 
-For stop mess this ".txt",I will note situation in "Notes" that is Mac's application.
+(For stop mess this ".txt",I will note situation in "Notes" that is Mac's application.)
+
+
+2019-August-3, Saturday, Lh3
+tell, odd, list, fact, technology, bundle, by( bye ), rise, quotation, relative, subject, fate,
+radio, last, transport, win, fail, apart, parcel, domestic, song, protest, essential, correct,
+tree, sole, seat, flat

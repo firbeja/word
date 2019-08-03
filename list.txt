@@ -1,0 +1,33 @@
+list1 | BrE lɪst, AmE lɪst |
+	A.noun
+		(of names); (of items)
+			▸ to be on a list
+				«names»
+				«items»
+			▸ to put sb/sth on a list;
+			▸ to take sb/sth off a list;
+			▸ to be at the head or top of the list
+				«name»
+				«item»
+			▸ to be high/low on one’s list of priorities
+			▸ to draw up/run through a list
+	B.transitive verb
+		①‹names, articles, prices›
+			▸ to be listed under sth;
+			▸ to be listed in sth;
+				‹directory, phone book›
+			▸ to be listed as missing;
+				«person»
+			▸ he is listed among the greatest painters of his age
+		②Finance
+			▸ to be listed on the Stock Exchange
+	C.intransitive verb
+		Business
+			▸ what does list it at or for?
+list2 | BrE lɪst, AmE lɪst | Nautical
+	A.intransitive verb
+		«ship, boat»
+	B.noun
+
+			▸ to develop a list
+				«ship, boat»

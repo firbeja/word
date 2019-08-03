@@ -1,0 +1,62 @@
+subject
+	A.noun | BrE ˈsʌbdʒɛkt,ˈsʌbdʒɪkt, AmE ˈsəbdʒɛkt |
+		①(topic) 主题
+			▸ to change the subject
+				换个话题
+			▸ an article on the subject of space travel
+				一篇谈论太空旅行的文章
+			▸ let's just drop the subject
+				我们别再谈这事儿了
+			▸ how did we get on to the subject of marriage?
+				我们怎么谈到婚姻问题上了？
+			▸ we're getting off the subject
+				我们跑题了
+		②(branch of knowledge) 科目
+			▸ French is her best/favourite subject
+				法语是她成绩最好/最喜欢的科目
+		③Art,Photography 表现对象
+			▸ to focus the camera on the subject
+				将相机聚焦到拍摄对象上
+			▸ landscapes were a popular subject with many 18th century painters
+				风景是18世纪很多画家喜欢的表现题材
+		④(in experiment) 实验对象
+			▸ male subjects between the ages of 18 and 25
+				18至25岁之间的男性实验对象
+		⑤(focus) 缘由
+			▸ a subject of dispute
+				争端的起因
+			▸ he's become a subject for ridicule
+				他成了别人讥笑讽刺的对象
+		⑥Linguistics 主语
+		⑦(citizen) 臣民
+			▸ a British subject
+				英国国民
+	B.adjective | BrE ˈsʌbdʒɛkt,ˈsʌbdʒɪkt, AmE ˈsəbdʒɛkt |
+		①predicative
+			▸ (liable) to be subject to sth;
+				可能遭受…
+			▸ prices are subject to alteration
+				价格有可能变动
+		②predicative
+			▸ (dependent) to be subject to sth;
+				取决于某事物
+			▸ the proposal is subject to approval by the shareholders
+				提案需经股东批准
+		③predicative
+			▸ (obliged to obey) to be subject to sth;
+				受某事物支配
+			▸ the island is not subject to British law
+				该岛不受英国法律制约
+		④attributiveformal (subservient) 臣服的
+			▸ the Greeks were the first subject people to break free from Ottoman rule
+				希腊人是第一个挣脱奥斯曼帝国统治的民族
+	C. | , | AmE ˈsəbdʒɛkt/: subject to preposition phrase
+		取决于
+			▸ subject to the EU's agreement, …
+				根据欧盟协议，…
+			▸ you will be granted membership, subject to producing certain documents
+				只要提供一些文件，你就可以成为会员
+	D.transitive verb | BrE səbˈdʒɛkt, AmE səbˈdʒɛkt |
+		formal 使臣服
+			▸ to be subjected to bombing/ridicule
+				遭到轰炸/受到嘲笑

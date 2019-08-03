@@ -1,0 +1,49 @@
+protest
+	A.noun | BrE ˈprəʊtɛst, AmE ˈproʊˌtɛst |
+		①countable (oral complaint) 抗议; (written complaint) 抗议书
+			▸ as a protest about or at or against sth
+				作为对某事物的抗议
+			▸ to enter or lodge or make or register a protest
+				提出抗议
+			▸ a letter of protest
+				抗议信
+			▸ under/without protest
+				不情愿地/情愿地
+		②countable (demonstration) 抗议游行
+			▸ a protest against or over sb/sth;
+				反对某人/某事物的游行
+			▸ to stage a protest
+				组织游行抗议
+		③uncountable (disapproval) 反对
+			▸ to do sth as a token of protest
+				做某事以示抗议
+			▸ mass demonstrations in protest at or over living standards
+				因对生活水准不满而进行的大规模抗议游行
+			▸ a protest movement/demonstration
+				抗议运动/游行
+		④countable Law 拒付证书
+	B.intransitive verb | BrE prəˈtɛst, AmE prəˈtɛst,proʊˈtɛst |
+		①(complain) 抱怨
+			▸ to protest about or at sb/sth;
+				对某人/某事物表示不满
+			▸ to protest to sb/sth;
+				向某人/某机构表示不满
+			▸ to protest too much
+				过度抱怨，适得其反
+		②(demonstrate) 抗议游行
+			▸ the demonstrators were protesting against rising food prices
+				示威者在游行抗议食品涨价
+	C.transitive verb | BrE prəˈtɛst, AmE prəˈtɛst,proʊˈtɛst |
+		①(complain) 提出异议说
+			▸ to protest that …
+				抱怨说…
+			▸ ‘that's unfair!’they protested
+				“那不公平！”他们抱怨道
+		②US (complain about) 对…表示不满 ‹decision, injustice›;
+		  (demonstrate against) 游行抗议 ‹policy, decision›
+		③(declare) 声明
+			▸ he protested the truth or veracity of what he had stated
+				formal 他坚持自己说的是真话
+			▸ to protest one's innocence
+				坚持说自己是无辜的
+		④Law,Finance 书面声明拒付 ‹bill›
