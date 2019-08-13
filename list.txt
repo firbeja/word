@@ -4,8 +4,8 @@ list1 | BrE lɪst, AmE lɪst |
 			▸ to be on a list
 				«names»
 				«items»
-			▸ to put sb/sth on a list;
-			▸ to take sb/sth off a list;
+			▸ to put * on a list;
+			▸ to take * off a list;
 			▸ to be at the head or top of the list
 				«name»
 				«item»
@@ -13,8 +13,8 @@ list1 | BrE lɪst, AmE lɪst |
 			▸ to draw up/run through a list
 	B.transitive verb
 		①‹names, articles, prices›
-			▸ to be listed under sth;
-			▸ to be listed in sth;
+			▸ to be listed under something;
+			▸ to be listed in something;
 				‹directory, phone book›
 			▸ to be listed as missing;
 				«person»

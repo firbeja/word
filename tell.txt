@@ -2,19 +2,19 @@ tell | BrE tɛl, AmE tɛl | past tense, past participle told
 	A.transitive verb
 		①(make known) ‹story, joke, history›; ‹fact, news›;
 		  (say, express in words) ‹truth, lie›
-			▸ to tell sb sth, to tell sth to sb;
+			▸ to tell somebody something, to tell something to somebody;
 			▸ to tell the time, US to tell time
 			▸ she's only six, but she can tell the time
-			▸ to tell sb about sb/sth;
+			▸ to tell somebody about *;
 			▸ don't tell the world about it!
-			▸ to tell sb a thing or two (about sb/sth)
+			▸ to tell somebody a thing or two (about *)
 			▸ I can't tell you how happy/sad I am
-			▸ to tell sb (sth) in no uncertain terms
-			▸ to tell sth in one's own words
+			▸ to tell somebody (something) in no uncertain terms
+			▸ to tell something in one's own words
 			▸ something tells me he won't be very pleased
 			▸ she told me of all her hopes and aspirations
 			▸ I'm not going to tell you again (to do it)
-			▸ to tell sb a secret
+			▸ to tell somebody a secret
 			▸ I or I'll tell you what …
 				informal
 			▸ I told you (so)
@@ -23,7 +23,7 @@ tell | BrE tɛl, AmE tɛl | past tense, past participle told
 				informal
 			▸ I tell you, I can tell you, let me tell you
 				informal
-			▸ to tell sb a pack of lies
+			▸ to tell somebody a pack of lies
 			▸ tell me another!
 				informal
 			▸ more than words can tell
@@ -32,17 +32,17 @@ tell | BrE tɛl, AmE tɛl | past tense, past participle told
 				informal
 		②(give information) «person, book» ‹information›; «instructions, map» ‹way›;
 		  «gauge, thermometer, signpost» ‹amount, rise, fall›
-			▸ to tell sb the way (to sth);
+			▸ to tell somebody the way (to something);
 			▸ his behaviour told me a great deal about his character
-			▸ to tell sb what's what
+			▸ to tell somebody what's what
 		③(ascertain) ; (deduce)
 			▸ nobody could tell how he did the trick
 			▸ who can tell?
-			▸ you can never or you never can tell (with sb)
+			▸ you can never or you never can tell (with somebody)
 			▸ you can tell a lot from the kind of clothes people wear
 			▸ you couldn't tell much from his expression
 		④(distinguish) ‹difference, person, object›
-			▸ to tell sb/sth from sb/sth;
+			▸ to tell * from *;
 			▸ to tell which is which
 			▸ can you tell the two sisters apart?
 			▸ to tell right from wrong
@@ -54,15 +54,15 @@ tell | BrE tɛl, AmE tɛl | past tense, past participle told
 			▸ he won't be told
 				(to obey orders)
 				(to take advice)
-			▸ to tell sb where to put or what to do with sth
+			▸ to tell somebody where to put or what to do with something
 				informal
-			▸ to tell sb where to get off
+			▸ to tell somebody where to get off
 				informal
 	B.intransitive verb
 		①(know for certain)
 			▸ it may rain or it may not; it's very hard to tell
 			▸ you just can't tell with people like that
-			▸ to tell from sth;
+			▸ to tell from something;
 			▸ as far as I can tell …
 			▸ there is no telling …
 			▸ time (alone) will tell
@@ -82,12 +82,12 @@ tell | BrE tɛl, AmE tɛl | past tense, past participle told
 			▸ youth and inexperience told against her at the interview
 PHRASAL VERBS
 tell off
-	transitive verb [tell sb off]
+	transitive verb [tell somebody off]
 		informal
 			▸ you'll get told off if they catch you doing that!
 			▸ she told him off for his cheek
 tell on:
 	transitive verb
-		[tell on sb] informal
-			▸ to tell on sb for doing sth;
-			▸ to tell on sb to the headmaster
+		[tell on somebody] informal
+			▸ to tell on somebody for doing something;
+			▸ to tell on somebody to the headmaster

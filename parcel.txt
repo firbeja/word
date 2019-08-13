@@ -1,7 +1,7 @@
 parcel | BrE ˈpɑːs(ə)l, AmE ˈpɑrsəl |
 	A.noun
 		①(mainly British)(package)
-			▸ a parcel of sth
+			▸ a parcel of something
 				‹books, letters›
 		②(piece of land)
 	B.transitive verb
@@ -9,8 +9,8 @@ parcel | BrE ˈpɑːs(ə)l, AmE ˈpɑrsəl |
 		= parcel up
 PHRASAL VERBS
 parcel out
-	transitive verb [parcel out sth, parcel sth out]
+	transitive verb [parcel out something, parcel something out]
 		‹land, supplies, work›
 parcel up
-	transitive verb [parcel up sth, parcel sth up]
+	transitive verb [parcel up something, parcel something up]
 		‹objects, goods›
