@@ -1,0 +1,31 @@
+AIM
+	A.abbreviation
+	  =Alternative Investment Market
+
+
+aim eɪm
+	A.transitive verb
+		- direct <stone, ball, kick>
+			the gun was aimed at my head, the blow was aimed at my head
+			well-aimed
+				-> <blow, kick>
+		- target <remark, product, insult>
+			to aim something at somebody, to aim something at something
+			an anti-smoking compaign aimed at young people
+		- strive to achieve
+			to be aimed at something, to be aimed at doing something
+				-> «action, effort»
+	B.intransitive verb
+		- direct with weapon etc.
+			to aim at something, to aim for something
+		- direct efforts
+			to aim at something, to aim for something
+			to aim at doing something
+			to aim to do something
+			to aim high
+				-> figurative
+	C.noun
+		- purpose
+			with the aim of doing something
+		- target
+			to take aim at something, to take aim at somebody
